@@ -1,0 +1,2 @@
+# InventarioAbarrotesLirios
+desarrollo de inventario
